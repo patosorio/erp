@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**
     ```bash
    git clone https://github.com/patosorio/erp.git
-   cd yourprojectname
+   cd erp
 
 2. **Set up a virtual environment**
     ```bash
