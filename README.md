@@ -44,8 +44,6 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     python manage.py runserver
 
-
-
 ### Frontend Setup (React)
 
 1. **Navigate to directory**
