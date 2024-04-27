@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
     cd backend
     pip install -r requirements.txt
 
-3. **Set up environment variables**
+3. **Set up environment variables on .env file**
     ```bash
     DEBUG=on
     SECRET_KEY=your_secret_key_here
