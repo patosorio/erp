@@ -4,7 +4,6 @@ LAUNDRY ERP
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 * You have installed the latest version of [Python](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/).
-* You have a Windows/Linux/Mac machine.
 
 ## Installation
 
